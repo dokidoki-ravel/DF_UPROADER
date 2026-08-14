@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# FTP upload packages
+miradoki-land-lp.zip
+miradoki24-folder.zip
