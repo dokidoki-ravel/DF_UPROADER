@@ -171,5 +171,8 @@ cython_debug/
 .pypirc
 
 # FTP upload packages
-miradoki-land-lp.zip
+miradoki-land-lp*.zip
 miradoki24-folder.zip
+
+# macOS metadata
+.DS_Store

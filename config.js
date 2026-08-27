@@ -7,7 +7,7 @@
 const SITE_CONFIG = {
   // YouTubeの通常URL・短縮URLのどちらも使えます。
   // 例: "https://www.youtube.com/watch?v=XXXXXXXXXXX"
-  youtubeUrl: "",
+  youtubeUrl: "https://www.youtube.com/live/C4VQ02uZQ9U",
 
   // ミラドキランド公式XのプロフィールURL
   // 例: "https://x.com/your_account"
